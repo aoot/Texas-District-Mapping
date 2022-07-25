@@ -13,6 +13,3 @@ dependencies:
     - geopy
     - geopandas
     - shapely
-
-variables:
-    apiKey_googleMaps: AIzaSyBE7REVMEThaUoMr6VSkOOe0YRhLi859ZY
