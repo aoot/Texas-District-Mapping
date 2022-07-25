@@ -1,15 +1,17 @@
 name: onestar_mapping
 
 channels:
+    - defaults
+    - anaconda
     - conda-forge
 
 dependencies:
     - python=3.10
-    - jupyterlab
     - numpy
     - pandas
-    - matplotlib
-    - seaborn
-    - geopy
-    - geopandas
-    - shapely
+    - conda-forge::jupyterlab
+    - conda-forge::matplotlib
+    - conda-forge::seaborn
+    - conda-forge::geopy
+    - conda-forge::geopandas
+    - conda-forge::shapely
