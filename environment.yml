@@ -13,3 +13,4 @@ dependencies:
     - conda-forge::geopy
     - conda-forge::geopandas
     - conda-forge::shapely
+    - openpyxl
