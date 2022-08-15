@@ -1,0 +1,255 @@
+,COG ID,COG Name,COG Long Name,County Num of County in COG,County,County Short Name,County Long Name
+0,1,Panhandle,Panhandle Regional Planning Commission,0,Armstrong (48011),Armstrong,Armstrong County
+1,2,South Plains,South Plains Association of Governments,0,Bailey (48017),Bailey,Bailey County
+2,3,Nortex,Nortex Regional Planning Commission,0,Archer (48009),Archer,Archer County
+3,4,North Central Texas,North Central Texas Council of Governments,0,Collin (48085),Collin,Collin County
+4,5,Ark-Tex,Ark-Tex Council of Governments,0,Bowie (48037),Bowie,Bowie County
+5,6,East Texas,East Texas Council of Governments,0,Anderson (48001),Anderson,Anderson County
+6,7,West Central Texas,West Central Texas Council of Governments,0,Brown (48049),Brown,Brown County
+7,8,Rio Grande,Rio Grande Council of Governments,0,Brewster (48043),Brewster,Brewster County
+8,9,Permian Basin,Permian Basin Regional Planning Commission,0,Andrews (48003),Andrews,Andrews County
+9,10,Concho Valley,Concho Valley Council of Governments,0,Coke (48081),Coke,Coke County
+10,11,Heart of Texas,Heart of Texas Council of Governments,0,Bosque (48035),Bosque,Bosque County
+11,12,Capital Area,Capital Area Council of Governments,0,Bastrop (48021),Bastrop,Bastrop County
+12,13,Brazos Valley,Brazos Valley Council of Governments,0,Brazos (48041),Brazos,Brazos County
+13,14,Deep East Texas,Deep East Texas Council of Governments,0,Angelina (48005),Angelina,Angelina County
+14,15,South East Texas,South East Texas Regional Planning Commission,0,Hardin (48199),Hardin,Hardin County
+15,16,Houston-Galveston,Houston-Galveston Area Council,0,Austin (48015),Austin,Austin County
+16,17,Golden Crescent,Golden Crescent Regional Planning Commission,0,Calhoun (48057),Calhoun,Calhoun County
+17,18,Alamo Area,Alamo Area Council of Governments,0,Atascosa (48013),Atascosa,Atascosa County
+18,19,South Texas,South Texas Development Council,0,Jim Hogg (48247),Jim Hogg,Jim Hogg County
+19,20,Coastal Bend,Coastal Bend Council of Governments,0,Aransas (48007),Aransas,Aransas County
+20,21,Lower Rio Grande Valley,Lower Rio Grande Valley Development Council,0,Cameron (48061),Cameron,Cameron County
+21,22,Texoma,Texoma Council of Governments,0,Cooke (48097),Cooke,Cooke County
+22,23,Central Texas,Central Texas Council of Governments,0,Bell (48027),Bell,Bell County
+23,24,Middle Rio Grande,Middle Rio Grande Development Council,0,Dimmit (48127),Dimmit,Dimmit County
+24,1,Panhandle,Panhandle Regional Planning Commission,1,Briscoe (48045),Briscoe,Briscoe County
+25,2,South Plains,South Plains Association of Governments,1,Cochran (48079),Cochran,Cochran County
+26,3,Nortex,Nortex Regional Planning Commission,1,Baylor (48023),Baylor,Baylor County
+27,4,North Central Texas,North Central Texas Council of Governments,1,Dallas (48113),Dallas,Dallas County
+28,5,Ark-Tex,Ark-Tex Council of Governments,1,Cass (48067),Cass,Cass County
+29,6,East Texas,East Texas Council of Governments,1,Camp (48063),Camp,Camp County
+30,7,West Central Texas,West Central Texas Council of Governments,1,Callahan (48059),Callahan,Callahan County
+31,8,Rio Grande,Rio Grande Council of Governments,1,Culberson (48109),Culberson,Culberson County
+32,9,Permian Basin,Permian Basin Regional Planning Commission,1,Borden (48033),Borden,Borden County
+33,10,Concho Valley,Concho Valley Council of Governments,1,Concho (48095),Concho,Concho County
+34,11,Heart of Texas,Heart of Texas Council of Governments,1,Falls (48145),Falls,Falls County
+35,12,Capital Area,Capital Area Council of Governments,1,Blanco (48031),Blanco,Blanco County
+36,13,Brazos Valley,Brazos Valley Council of Governments,1,Burleson (48051),Burleson,Burleson County
+37,14,Deep East Texas,Deep East Texas Council of Governments,1,Houston (48225),Houston,Houston County
+38,15,South East Texas,South East Texas Regional Planning Commission,1,Jefferson (48245),Jefferson,Jefferson County
+39,16,Houston-Galveston,Houston-Galveston Area Council,1,Brazoria (48039),Brazoria,Brazoria County
+40,17,Golden Crescent,Golden Crescent Regional Planning Commission,1,DeWitt (48123),DeWitt,DeWitt County
+41,18,Alamo Area,Alamo Area Council of Governments,1,Bandera (48019),Bandera,Bandera County
+42,19,South Texas,South Texas Development Council,1,Starr (48427),Starr,Starr County
+43,20,Coastal Bend,Coastal Bend Council of Governments,1,Bee (48025),Bee,Bee County
+44,21,Lower Rio Grande Valley,Lower Rio Grande Valley Development Council,1,Hidalgo (48215),Hidalgo,Hidalgo County
+45,22,Texoma,Texoma Council of Governments,1,Fannin (48147),Fannin,Fannin County
+46,23,Central Texas,Central Texas Council of Governments,1,Coryell (48099),Coryell,Coryell County
+47,24,Middle Rio Grande,Middle Rio Grande Development Council,1,Edwards (48137),Edwards,Edwards County
+48,1,Panhandle,Panhandle Regional Planning Commission,2,Carson (48065),Carson,Carson County
+49,2,South Plains,South Plains Association of Governments,2,Crosby (48107),Crosby,Crosby County
+50,3,Nortex,Nortex Regional Planning Commission,2,Clay (48077),Clay,Clay County
+51,4,North Central Texas,North Central Texas Council of Governments,2,Denton (48121),Denton,Denton County
+52,5,Ark-Tex,Ark-Tex Council of Governments,2,Delta (48119),Delta,Delta County
+53,6,East Texas,East Texas Council of Governments,2,Cherokee (48073),Cherokee,Cherokee County
+54,7,West Central Texas,West Central Texas Council of Governments,2,Coleman (48083),Coleman,Coleman County
+55,8,Rio Grande,Rio Grande Council of Governments,2,El Paso (48141),El Paso,El Paso County
+56,9,Permian Basin,Permian Basin Regional Planning Commission,2,Crane (48103),Crane,Crane County
+57,10,Concho Valley,Concho Valley Council of Governments,2,Crockett (48105),Crockett,Crockett County
+58,11,Heart of Texas,Heart of Texas Council of Governments,2,Freestone (48161),Freestone,Freestone County
+59,12,Capital Area,Capital Area Council of Governments,2,Burnet (48053),Burnet,Burnet County
+60,13,Brazos Valley,Brazos Valley Council of Governments,2,Grimes (48185),Grimes,Grimes County
+61,14,Deep East Texas,Deep East Texas Council of Governments,2,Jasper (48241),Jasper,Jasper County
+62,15,South East Texas,South East Texas Regional Planning Commission,2,Orange (48361),Orange,Orange County
+63,16,Houston-Galveston,Houston-Galveston Area Council,2,Chambers (48071),Chambers,Chambers County
+64,17,Golden Crescent,Golden Crescent Regional Planning Commission,2,Goliad (48175),Goliad,Goliad County
+65,18,Alamo Area,Alamo Area Council of Governments,2,Bexar (48029),Bexar,Bexar County
+66,19,South Texas,South Texas Development Council,2,Webb (48479),Webb,Webb County
+67,20,Coastal Bend,Coastal Bend Council of Governments,2,Brooks (48047),Brooks,Brooks County
+68,21,Lower Rio Grande Valley,Lower Rio Grande Valley Development Council,2,Willacy (48489),Willacy,Willacy County
+69,22,Texoma,Texoma Council of Governments,2,Grayson (48181),Grayson,Grayson County
+70,23,Central Texas,Central Texas Council of Governments,2,Hamilton (48193),Hamilton,Hamilton County
+71,24,Middle Rio Grande,Middle Rio Grande Development Council,2,Kinney (48271),Kinney,Kinney County
+72,1,Panhandle,Panhandle Regional Planning Commission,3,Castro (48069),Castro,Castro County
+73,2,South Plains,South Plains Association of Governments,3,Dickens (48125),Dickens,Dickens County
+74,3,Nortex,Nortex Regional Planning Commission,3,Cottle (48101),Cottle,Cottle County
+75,4,North Central Texas,North Central Texas Council of Governments,3,Ellis (48139),Ellis,Ellis County
+76,5,Ark-Tex,Ark-Tex Council of Governments,3,Franklin (48159),Franklin,Franklin County
+77,6,East Texas,East Texas Council of Governments,3,Gregg (48183),Gregg,Gregg County
+78,7,West Central Texas,West Central Texas Council of Governments,3,Comanche (48093),Comanche,Comanche County
+79,8,Rio Grande,Rio Grande Council of Governments,3,Hudspeth (48229),Hudspeth,Hudspeth County
+80,9,Permian Basin,Permian Basin Regional Planning Commission,3,Dawson (48115),Dawson,Dawson County
+81,10,Concho Valley,Concho Valley Council of Governments,3,Irion (48235),Irion,Irion County
+82,11,Heart of Texas,Heart of Texas Council of Governments,3,Hill (48217),Hill,Hill County
+83,12,Capital Area,Capital Area Council of Governments,3,Caldwell (48055),Caldwell,Caldwell County
+84,13,Brazos Valley,Brazos Valley Council of Governments,3,Leon (48289),Leon,Leon County
+85,14,Deep East Texas,Deep East Texas Council of Governments,3,Nacogdoches (48347),Nacogdoches,Nacogdoches County
+86,16,Houston-Galveston,Houston-Galveston Area Council,3,Colorado (48089),Colorado,Colorado County
+87,17,Golden Crescent,Golden Crescent Regional Planning Commission,3,Gonzales (48177),Gonzales,Gonzales County
+88,18,Alamo Area,Alamo Area Council of Governments,3,Comal (48091),Comal,Comal County
+89,19,South Texas,South Texas Development Council,3,Zapata (48505),Zapata,Zapata County
+90,20,Coastal Bend,Coastal Bend Council of Governments,3,Duval (48131),Duval,Duval County
+91,23,Central Texas,Central Texas Council of Governments,3,Lampasas (48281),Lampasas,Lampasas County
+92,24,Middle Rio Grande,Middle Rio Grande Development Council,3,La Salle (48283),La Salle,La Salle County
+93,1,Panhandle,Panhandle Regional Planning Commission,4,Childress (48075),Childress,Childress County
+94,2,South Plains,South Plains Association of Governments,4,Floyd (48153),Floyd,Floyd County
+95,3,Nortex,Nortex Regional Planning Commission,4,Foard (48155),Foard,Foard County
+96,4,North Central Texas,North Central Texas Council of Governments,4,Erath (48143),Erath,Erath County
+97,5,Ark-Tex,Ark-Tex Council of Governments,4,Hopkins (48223),Hopkins,Hopkins County
+98,6,East Texas,East Texas Council of Governments,4,Harrison (48203),Harrison,Harrison County
+99,7,West Central Texas,West Central Texas Council of Governments,4,Eastland (48133),Eastland,Eastland County
+100,8,Rio Grande,Rio Grande Council of Governments,4,Jeff Davis (48243),Jeff Davis,Jeff Davis County
+101,9,Permian Basin,Permian Basin Regional Planning Commission,4,Ector (48135),Ector,Ector County
+102,10,Concho Valley,Concho Valley Council of Governments,4,Kimble (48267),Kimble,Kimble County
+103,11,Heart of Texas,Heart of Texas Council of Governments,4,Limestone (48293),Limestone,Limestone County
+104,12,Capital Area,Capital Area Council of Governments,4,Fayette (48149),Fayette,Fayette County
+105,13,Brazos Valley,Brazos Valley Council of Governments,4,Madison (48313),Madison,Madison County
+106,14,Deep East Texas,Deep East Texas Council of Governments,4,Newton (48351),Newton,Newton County
+107,16,Houston-Galveston,Houston-Galveston Area Council,4,Fort Bend (48157),Fort Bend,Fort Bend County
+108,17,Golden Crescent,Golden Crescent Regional Planning Commission,4,Jackson (48239),Jackson,Jackson County
+109,18,Alamo Area,Alamo Area Council of Governments,4,Frio (48163),Frio,Frio County
+110,20,Coastal Bend,Coastal Bend Council of Governments,4,Jim Wells (48249),Jim Wells,Jim Wells County
+111,23,Central Texas,Central Texas Council of Governments,4,Milam (48331),Milam,Milam County
+112,24,Middle Rio Grande,Middle Rio Grande Development Council,4,Maverick (48323),Maverick,Maverick County
+113,1,Panhandle,Panhandle Regional Planning Commission,5,Collingsworth (48087),Collingsworth,Collingsworth County
+114,2,South Plains,South Plains Association of Governments,5,Garza (48169),Garza,Garza County
+115,3,Nortex,Nortex Regional Planning Commission,5,Hardeman (48197),Hardeman,Hardeman County
+116,4,North Central Texas,North Central Texas Council of Governments,5,Hood (48221),Hood,Hood County
+117,5,Ark-Tex,Ark-Tex Council of Governments,5,Lamar (48277),Lamar,Lamar County
+118,6,East Texas,East Texas Council of Governments,5,Henderson (48213),Henderson,Henderson County
+119,7,West Central Texas,West Central Texas Council of Governments,5,Fisher (48151),Fisher,Fisher County
+120,8,Rio Grande,Rio Grande Council of Governments,5,Presidio (48377),Presidio,Presidio County
+121,9,Permian Basin,Permian Basin Regional Planning Commission,5,Gaines (48165),Gaines,Gaines County
+122,10,Concho Valley,Concho Valley Council of Governments,5,Mason (48319),Mason,Mason County
+123,11,Heart of Texas,Heart of Texas Council of Governments,5,McLennan (48309),McLennan,McLennan County
+124,12,Capital Area,Capital Area Council of Governments,5,Hays (48209),Hays,Hays County
+125,13,Brazos Valley,Brazos Valley Council of Governments,5,Robertson (48395),Robertson,Robertson County
+126,14,Deep East Texas,Deep East Texas Council of Governments,5,Polk (48373),Polk,Polk County
+127,16,Houston-Galveston,Houston-Galveston Area Council,5,Galveston (48167),Galveston,Galveston County
+128,17,Golden Crescent,Golden Crescent Regional Planning Commission,5,Lavaca (48285),Lavaca,Lavaca County
+129,18,Alamo Area,Alamo Area Council of Governments,5,Gillespie (48171),Gillespie,Gillespie County
+130,20,Coastal Bend,Coastal Bend Council of Governments,5,Kenedy (48261),Kenedy,Kenedy County
+131,23,Central Texas,Central Texas Council of Governments,5,Mills (48333),Mills,Mills County
+132,24,Middle Rio Grande,Middle Rio Grande Development Council,5,Real (48385),Real,Real County
+133,1,Panhandle,Panhandle Regional Planning Commission,6,Dallam (48111),Dallam,Dallam County
+134,2,South Plains,South Plains Association of Governments,6,Hale (48189),Hale,Hale County
+135,3,Nortex,Nortex Regional Planning Commission,6,Jack (48237),Jack,Jack County
+136,4,North Central Texas,North Central Texas Council of Governments,6,Hunt (48231),Hunt,Hunt County
+137,5,Ark-Tex,Ark-Tex Council of Governments,6,Morris (48343),Morris,Morris County
+138,6,East Texas,East Texas Council of Governments,6,Marion (48315),Marion,Marion County
+139,7,West Central Texas,West Central Texas Council of Governments,6,Haskell (48207),Haskell,Haskell County
+140,9,Permian Basin,Permian Basin Regional Planning Commission,6,Glasscock (48173),Glasscock,Glasscock County
+141,10,Concho Valley,Concho Valley Council of Governments,6,McCulloch (48307),McCulloch,McCulloch County
+142,12,Capital Area,Capital Area Council of Governments,6,Lee (48287),Lee,Lee County
+143,13,Brazos Valley,Brazos Valley Council of Governments,6,Washington (48477),Washington,Washington County
+144,14,Deep East Texas,Deep East Texas Council of Governments,6,Sabine (48403),Sabine,Sabine County
+145,16,Houston-Galveston,Houston-Galveston Area Council,6,Harris (48201),Harris,Harris County
+146,17,Golden Crescent,Golden Crescent Regional Planning Commission,6,Victoria (48469),Victoria,Victoria County
+147,18,Alamo Area,Alamo Area Council of Governments,6,Guadalupe (48187),Guadalupe,Guadalupe County
+148,20,Coastal Bend,Coastal Bend Council of Governments,6,Kleberg (48273),Kleberg,Kleberg County
+149,23,Central Texas,Central Texas Council of Governments,6,San Saba (48411),San Saba,San Saba County
+150,24,Middle Rio Grande,Middle Rio Grande Development Council,6,Uvalde (48463),Uvalde,Uvalde County
+151,1,Panhandle,Panhandle Regional Planning Commission,7,Deaf Smith (48117),Deaf Smith,Deaf Smith County
+152,2,South Plains,South Plains Association of Governments,7,Hockley (48219),Hockley,Hockley County
+153,3,Nortex,Nortex Regional Planning Commission,7,Montague (48337),Montague,Montague County
+154,4,North Central Texas,North Central Texas Council of Governments,7,Johnson (48251),Johnson,Johnson County
+155,5,Ark-Tex,Ark-Tex Council of Governments,7,Red River (48387),Red River,Red River County
+156,6,East Texas,East Texas Council of Governments,7,Panola (48365),Panola,Panola County
+157,7,West Central Texas,West Central Texas Council of Governments,7,Jones (48253),Jones,Jones County
+158,9,Permian Basin,Permian Basin Regional Planning Commission,7,Howard (48227),Howard,Howard County
+159,10,Concho Valley,Concho Valley Council of Governments,7,Menard (48327),Menard,Menard County
+160,12,Capital Area,Capital Area Council of Governments,7,Llano (48299),Llano,Llano County
+161,14,Deep East Texas,Deep East Texas Council of Governments,7,San Augustine (48405),San Augustine,San Augustine County
+162,16,Houston-Galveston,Houston-Galveston Area Council,7,Liberty (48291),Liberty,Liberty County
+163,18,Alamo Area,Alamo Area Council of Governments,7,Karnes (48255),Karnes,Karnes County
+164,20,Coastal Bend,Coastal Bend Council of Governments,7,Live Oak (48297),Live Oak,Live Oak County
+165,24,Middle Rio Grande,Middle Rio Grande Development Council,7,Val Verde (48465),Val Verde,Val Verde County
+166,1,Panhandle,Panhandle Regional Planning Commission,8,Donley (48129),Donley,Donley County
+167,2,South Plains,South Plains Association of Governments,8,King (48269),King,King County
+168,3,Nortex,Nortex Regional Planning Commission,8,Wichita (48485),Wichita,Wichita County
+169,4,North Central Texas,North Central Texas Council of Governments,8,Kaufman (48257),Kaufman,Kaufman County
+170,5,Ark-Tex,Ark-Tex Council of Governments,8,Titus (48449),Titus,Titus County
+171,6,East Texas,East Texas Council of Governments,8,Rains (48379),Rains,Rains County
+172,7,West Central Texas,West Central Texas Council of Governments,8,Kent (48263),Kent,Kent County
+173,9,Permian Basin,Permian Basin Regional Planning Commission,8,Loving (48301),Loving,Loving County
+174,10,Concho Valley,Concho Valley Council of Governments,8,Reagan (48383),Reagan,Reagan County
+175,12,Capital Area,Capital Area Council of Governments,8,Travis (48453),Travis,Travis County
+176,14,Deep East Texas,Deep East Texas Council of Governments,8,San Jacinto (48407),San Jacinto,San Jacinto County
+177,16,Houston-Galveston,Houston-Galveston Area Council,8,Matagorda (48321),Matagorda,Matagorda County
+178,18,Alamo Area,Alamo Area Council of Governments,8,Kendall (48259),Kendall,Kendall County
+179,20,Coastal Bend,Coastal Bend Council of Governments,8,Nueces (48355),Nueces,Nueces County
+180,24,Middle Rio Grande,Middle Rio Grande Development Council,8,Zavala (48507),Zavala,Zavala County
+181,1,Panhandle,Panhandle Regional Planning Commission,9,Gray (48179),Gray,Gray County
+182,2,South Plains,South Plains Association of Governments,9,Lamb (48279),Lamb,Lamb County
+183,3,Nortex,Nortex Regional Planning Commission,9,Wilbarger (48487),Wilbarger,Wilbarger County
+184,4,North Central Texas,North Central Texas Council of Governments,9,Navarro (48349),Navarro,Navarro County
+185,6,East Texas,East Texas Council of Governments,9,Rusk (48401),Rusk,Rusk County
+186,7,West Central Texas,West Central Texas Council of Governments,9,Knox (48275),Knox,Knox County
+187,9,Permian Basin,Permian Basin Regional Planning Commission,9,Martin (48317),Martin,Martin County
+188,10,Concho Valley,Concho Valley Council of Governments,9,Schleicher (48413),Schleicher,Schleicher County
+189,12,Capital Area,Capital Area Council of Governments,9,Williamson (48491),Williamson,Williamson County
+190,14,Deep East Texas,Deep East Texas Council of Governments,9,Shelby (48419),Shelby,Shelby County
+191,16,Houston-Galveston,Houston-Galveston Area Council,9,Montgomery (48339),Montgomery,Montgomery County
+192,18,Alamo Area,Alamo Area Council of Governments,9,Kerr (48265),Kerr,Kerr County
+193,20,Coastal Bend,Coastal Bend Council of Governments,9,Refugio (48391),Refugio,Refugio County
+194,1,Panhandle,Panhandle Regional Planning Commission,10,Hall (48191),Hall,Hall County
+195,2,South Plains,South Plains Association of Governments,10,Lubbock (48303),Lubbock,Lubbock County
+196,3,Nortex,Nortex Regional Planning Commission,10,Young (48503),Young,Young County
+197,4,North Central Texas,North Central Texas Council of Governments,10,Palo Pinto (48363),Palo Pinto,Palo Pinto County
+198,6,East Texas,East Texas Council of Governments,10,Smith (48423),Smith,Smith County
+199,7,West Central Texas,West Central Texas Council of Governments,10,Mitchell (48335),Mitchell,Mitchell County
+200,9,Permian Basin,Permian Basin Regional Planning Commission,10,Midland (48329),Midland,Midland County
+201,10,Concho Valley,Concho Valley Council of Governments,10,Sterling (48431),Sterling,Sterling County
+202,14,Deep East Texas,Deep East Texas Council of Governments,10,Trinity (48455),Trinity,Trinity County
+203,16,Houston-Galveston,Houston-Galveston Area Council,10,Walker (48471),Walker,Walker County
+204,18,Alamo Area,Alamo Area Council of Governments,10,McMullen (48311),McMullen,McMullen County
+205,20,Coastal Bend,Coastal Bend Council of Governments,10,San Patricio (48409),San Patricio,San Patricio County
+206,1,Panhandle,Panhandle Regional Planning Commission,11,Hansford (48195),Hansford,Hansford County
+207,2,South Plains,South Plains Association of Governments,11,Lynn (48305),Lynn,Lynn County
+208,4,North Central Texas,North Central Texas Council of Governments,11,Parker (48367),Parker,Parker County
+209,6,East Texas,East Texas Council of Governments,11,Upshur (48459),Upshur,Upshur County
+210,7,West Central Texas,West Central Texas Council of Governments,11,Nolan (48353),Nolan,Nolan County
+211,9,Permian Basin,Permian Basin Regional Planning Commission,11,Pecos (48371),Pecos,Pecos County
+212,10,Concho Valley,Concho Valley Council of Governments,11,Sutton (48435),Sutton,Sutton County
+213,14,Deep East Texas,Deep East Texas Council of Governments,11,Tyler (48457),Tyler,Tyler County
+214,16,Houston-Galveston,Houston-Galveston Area Council,11,Waller (48473),Waller,Waller County
+215,18,Alamo Area,Alamo Area Council of Governments,11,Medina (48325),Medina,Medina County
+216,1,Panhandle,Panhandle Regional Planning Commission,12,Hartley (48205),Hartley,Hartley County
+217,2,South Plains,South Plains Association of Governments,12,Motley (48345),Motley,Motley County
+218,4,North Central Texas,North Central Texas Council of Governments,12,Rockwall (48397),Rockwall,Rockwall County
+219,6,East Texas,East Texas Council of Governments,12,Van Zandt (48467),Van Zandt,Van Zandt County
+220,7,West Central Texas,West Central Texas Council of Governments,12,Runnels (48399),Runnels,Runnels County
+221,9,Permian Basin,Permian Basin Regional Planning Commission,12,Reeves (48389),Reeves,Reeves County
+222,10,Concho Valley,Concho Valley Council of Governments,12,Tom Green (48451),Tom Green,Tom Green County
+223,16,Houston-Galveston,Houston-Galveston Area Council,12,Wharton (48481),Wharton,Wharton County
+224,18,Alamo Area,Alamo Area Council of Governments,12,Wilson (48493),Wilson,Wilson County
+225,1,Panhandle,Panhandle Regional Planning Commission,13,Hemphill (48211),Hemphill,Hemphill County
+226,2,South Plains,South Plains Association of Governments,13,Terry (48445),Terry,Terry County
+227,4,North Central Texas,North Central Texas Council of Governments,13,Somervell (48425),Somervell,Somervell County
+228,6,East Texas,East Texas Council of Governments,13,Wood (48499),Wood,Wood County
+229,7,West Central Texas,West Central Texas Council of Governments,13,Scurry (48415),Scurry,Scurry County
+230,9,Permian Basin,Permian Basin Regional Planning Commission,13,Terrell (48443),Terrell,Terrell County
+231,1,Panhandle,Panhandle Regional Planning Commission,14,Hutchinson (48233),Hutchinson,Hutchinson County
+232,2,South Plains,South Plains Association of Governments,14,Yoakum (48501),Yoakum,Yoakum County
+233,4,North Central Texas,North Central Texas Council of Governments,14,Tarrant (48439),Tarrant,Tarrant County
+234,7,West Central Texas,West Central Texas Council of Governments,14,Shackelford (48417),Shackelford,Shackelford County
+235,9,Permian Basin,Permian Basin Regional Planning Commission,14,Upton (48461),Upton,Upton County
+236,1,Panhandle,Panhandle Regional Planning Commission,15,Lipscomb (48295),Lipscomb,Lipscomb County
+237,4,North Central Texas,North Central Texas Council of Governments,15,Wise (48497),Wise,Wise County
+238,7,West Central Texas,West Central Texas Council of Governments,15,Stephens (48429),Stephens,Stephens County
+239,9,Permian Basin,Permian Basin Regional Planning Commission,15,Ward (48475),Ward,Ward County
+240,1,Panhandle,Panhandle Regional Planning Commission,16,Moore (48341),Moore,Moore County
+241,7,West Central Texas,West Central Texas Council of Governments,16,Stonewall (48433),Stonewall,Stonewall County
+242,9,Permian Basin,Permian Basin Regional Planning Commission,16,Winkler (48495),Winkler,Winkler County
+243,1,Panhandle,Panhandle Regional Planning Commission,17,Ochiltree (48357),Ochiltree,Ochiltree County
+244,7,West Central Texas,West Central Texas Council of Governments,17,Taylor (48441),Taylor,Taylor County
+245,1,Panhandle,Panhandle Regional Planning Commission,18,Oldham (48359),Oldham,Oldham County
+246,7,West Central Texas,West Central Texas Council of Governments,18,Throckmorton (48447),Throckmorton,Throckmorton County
+247,1,Panhandle,Panhandle Regional Planning Commission,19,Parmer (48369),Parmer,Parmer County
+248,1,Panhandle,Panhandle Regional Planning Commission,20,Potter (48375),Potter,Potter County
+249,1,Panhandle,Panhandle Regional Planning Commission,21,Randall (48381),Randall,Randall County
+250,1,Panhandle,Panhandle Regional Planning Commission,22,Roberts (48393),Roberts,Roberts County
+251,1,Panhandle,Panhandle Regional Planning Commission,23,Sherman (48421),Sherman,Sherman County
+252,1,Panhandle,Panhandle Regional Planning Commission,24,Swisher (48437),Swisher,Swisher County
+253,1,Panhandle,Panhandle Regional Planning Commission,25,Wheeler (48483),Wheeler,Wheeler County
